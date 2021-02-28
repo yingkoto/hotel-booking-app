@@ -5,9 +5,9 @@ Customers can manage their booking details using the app.
 
 #### To Do List
 ```
-- [ ] Connect Localhost server
-- [ ] Create SQL Database
-- [ ] Form Validation using Vee-validate (third-party plugin)
+- Connect Localhost server (Frontend and Backend)
+- Create SQL Database
+- Form Validation using Vee-validate (third-party plugin)
 ```
 
 ## Project setup

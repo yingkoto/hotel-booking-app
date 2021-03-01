@@ -25,10 +25,9 @@ WEB HOSTING SERVICE
 Google Cloud Run service will be used to run the web application.
 
 HARDWARE AND TECHNOLOGIES
-Vuetify - frontend
-Vue.js - frontend
-Node.js - backend
-Express.js (web application framework for Node.js) - backend
+Vue.js + Vuetify - frontend
+Node.js + Express.js (web framework for Node.js)- backend
+Vuelidate - Form Validation
 
 ------------------------------------
 PROJ1 CHANGES

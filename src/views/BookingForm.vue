@@ -34,9 +34,9 @@
                         <small>*indicates required field</small>
                         </v-card-text>
                         <v-card-actions>
-                        <v-spacer></v-spacer>
-                        <v-btn color="blue darken-1" text @click="dialog1 = false">Cancel</v-btn>
-                        <v-btn color="blue darken-1" text @click="dialog1 = false">Add Room</v-btn>
+                            <v-spacer></v-spacer>
+                                <v-btn color="blue darken-1" text @click="dialog1 = false">Cancel</v-btn>
+                                <v-btn color="blue darken-1" text @click="dialog1 = false">Add Room</v-btn>
                         </v-card-actions>
                 </v-card>
             </v-dialog>
@@ -77,9 +77,9 @@
                         <small>*indicates required field</small>
                         </v-card-text>
                         <v-card-actions>
-                        <v-spacer></v-spacer>
-                        <v-btn color="blue darken-1" text @click="dialog2 = false">Cancel</v-btn>
-                        <v-btn color="blue darken-1" text @click="dialog2 = false">Update Room</v-btn>
+                            <v-spacer></v-spacer>
+                                <v-btn color="blue darken-1" text @click="dialog2 = false">Cancel</v-btn>
+                                <v-btn color="blue darken-1" text @click="dialog2 = false">Update Room</v-btn>
                         </v-card-actions>
                 </v-card>
             </v-dialog>
@@ -108,9 +108,9 @@
                         <small>*indicates required field</small>
                         </v-card-text>
                         <v-card-actions>
-                        <v-spacer></v-spacer>
-                        <v-btn color="blue darken-1" text @click="dialog3 = false">Cancel</v-btn>
-                        <v-btn color="blue darken-1" text @click="dialog3 = false">Delete Room</v-btn>
+                            <v-spacer></v-spacer>
+                                <v-btn color="blue darken-1" text @click="dialog3 = false">Cancel</v-btn>
+                                <v-btn color="blue darken-1" text @click="dialog3 = false">Delete Room</v-btn>
                         </v-card-actions>
                 </v-card>
             </v-dialog>
@@ -159,9 +159,9 @@
                         <small>*indicates required field</small>
                         </v-card-text>
                         <v-card-actions>
-                        <v-spacer></v-spacer>
-                        <v-btn color="blue darken-1" text @click="dialog4 = false">Cancel</v-btn>
-                        <v-btn color="blue darken-1" text @click="dialog4 = false">Update Account</v-btn>
+                            <v-spacer></v-spacer>
+                                <v-btn color="blue darken-1" text @click="dialog4 = false">Cancel</v-btn>
+                                <v-btn color="blue darken-1" text @click="dialog4 = false; /* update function */">Update Account</v-btn>
                         </v-card-actions>
                 </v-card>
             </v-dialog>

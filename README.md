@@ -17,7 +17,6 @@ Customers can manage their booking details using the app.
 | Add Room           |    *   |   *  |        |        |
 | Update Room        |        |      |    *   |        |
 | Delete Room        |        |      |        |    *   |
-| View Bookings      |        |   *  |        |        |
 | Logout             |        |      |        |    *   |
 | Delete Account     |        |      |        |    *   |
 | Make Booking       |    *   |      |        |        |
